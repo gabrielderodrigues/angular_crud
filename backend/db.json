@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Azul",
       "price": 5.67
     },
     {
@@ -31,14 +31,14 @@
       "id": 6
     },
     {
-      "name": "Veio do Formulario",
-      "price": "999",
-      "id": 7
-    },
-    {
       "name": "Notebook Samsung",
       "price": "3500",
       "id": 8
+    },
+    {
+      "name": "Smartphone Galaxy A71",
+      "price": "12999",
+      "id": 9
     }
   ]
 }
